@@ -50,3 +50,5 @@ AI-Powered Responses: Leveraged OpenAI's GPT-3.5-turbo model to process user que
 State Management: Implemented a reference class to manage memory and maintain a conversational context across user interactions.
 Error Handling: Ensured robust logging for efficient debugging and monitoring of the bot's performance.
 Utilized dotenv for secure environment variable management and asyncio for asynchronous message handling to optimize responsiveness.
+
+Run telebot-AI.py
