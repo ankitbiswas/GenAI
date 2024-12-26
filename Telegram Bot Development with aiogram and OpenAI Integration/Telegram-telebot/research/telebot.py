@@ -8,7 +8,7 @@ import asyncio
 
 load_dotenv()
 # API_TOKEN = os.getenv(BOT_API_TOKEN)
-API_TOKEN = "7953668615:AAFbQK3CyRuz9h0NHnGcMoUBHzpXYIlKlzE"
+API_TOKEN = "***********************************"
 
 #configure logging
 logging.basicConfig(level=logging.INFO)
