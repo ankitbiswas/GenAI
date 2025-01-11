@@ -48,6 +48,8 @@ Key features of the bot include:
 Command Handling: Added support for commands like /start, /help, and /clear to provide users with a seamless onboarding experience and enable clearing past conversations.
 AI-Powered Responses: Leveraged OpenAI's GPT-3.5-turbo model to process user queries and generate intelligent, context-aware replies.
 
+Run telebot-AI.py
+
 **Conversational AI Chatbot using LangChain, OpenAI, ChromaDB, and Chainlit**->
 
 Developed a Conversational AI Chatbot using LangChain, OpenAI, ChromaDB, and Chainlit. Implemented document-based retrieval by processing user-uploaded text files, chunking content, embedding it using OpenAI, and storing it in ChromaDB for semantic search—Integrated ConversationalRetrievalChain to enable contextual Q&A with memory. The chatbot provides answers along with cited sources, ensuring transparency.
@@ -60,4 +62,3 @@ Developed a Conversational AI Chatbot using LangChain, OpenAI, ChromaDB, and Cha
 **State Management**: Implemented a reference class to manage memory and maintain a conversational context across user interactions.
 
 
-Run telebot-AI.py
