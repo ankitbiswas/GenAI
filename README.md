@@ -50,7 +50,6 @@ AI-Powered Responses: Leveraged OpenAI's GPT-3.5-turbo model to process user que
 
 **Conversational AI Chatbot using LangChain, OpenAI, ChromaDB, and Chainlit**
 Developed a Conversational AI Chatbot using LangChain, OpenAI, ChromaDB, and Chainlit. Implemented document-based retrieval by processing user-uploaded text files, chunking content, embedding it using OpenAI, and storing it in ChromaDB for semantic search—Integrated ConversationalRetrievalChain to enable contextual Q&A with memory. The chatbot provides answers along with cited sources, ensuring transparency.
-
 **Key Components**:
 **File Upload & Processing**: Waits for a user-uploaded text file, reads, and splits it into chunks.
 **Vector Storage**: Converts text into embeddings using OpenAIEmbeddings and stores it in ChromaDB for retrieval.
